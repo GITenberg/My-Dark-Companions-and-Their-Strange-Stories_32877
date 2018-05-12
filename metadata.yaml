@@ -1,0 +1,38 @@
+_repo: My-Dark-Companions-and-Their-Strange-Stories_32877
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Buckley, Walter
+    gutenberg_agent_id: '36089'
+    url: http://www.gutenberg.org/2009/agents/36089
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Stanley, Henry M. (Henry Morton)
+    aliases:
+    - Stanley, H. M. (Henry Morton)
+    - Stanley, Henry Morton, Sir
+    - Rowlands, John
+    birthdate: 1841
+    deathdate: 1904
+    gutenberg_agent_id: '1714'
+    url: http://www.gutenberg.org/2009/agents/1714
+    wikipedia: http://en.wikipedia.org/wiki/Henry_Morton_Stanley
+description: ''
+gutenberg_issued: '2010-06-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32877'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Animals -- Africa, Central'
+- !lcsh 'Folklore -- Africa, Central'
+- !lcc 'GR'
+- !lcsh 'Animals -- Folklore'
+title: My Dark Companions and Their Strange Stories
+url: http://www.gutenberg.org/ebooks/32877
