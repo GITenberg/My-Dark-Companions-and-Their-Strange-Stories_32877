@@ -21,6 +21,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1714
     wikipedia: http://en.wikipedia.org/wiki/Henry_Morton_Stanley
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/32877#My-Dark-Companions-and-Their-Strange-Stories
 gutenberg_issued: '2010-06-18'
 gutenberg_type: Text
 identifiers:
